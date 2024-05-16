@@ -44,7 +44,29 @@ document.addEventListener('DOMContentLoaded', function () {
     { nombre: 'Valladolid', latlng: [20.740187217222022, -88.19312842942188] },
     { nombre: 'Cancún', latlng: [21.062195054849063, -86.87627789074763] },
     { nombre: 'Bacalar</b>', latlng: [18.708770983239933, -88.39726152154239] },
-    { nombre: 'Xpujil</b>', latlng: [18.536962985885378, -89.90280254988629] }
+    { nombre: 'Xpujil</b>', latlng: [18.536962985885378, -89.90280254988629] },
+    //tren interoceanico
+    { nombre: 'Salina Cruz', latlng: [16.182804792952616, -95.19579052159297] },
+    { nombre: 'Tehuantepec', latlng: [16.322348319411006, -95.24224643497965] },
+    { nombre: 'Ixtepec', latlng: [16.554496423819437, -95.0948690774041] },
+    { nombre: 'Chivela', latlng: [16.713173659683942, -95.00104907554626] },
+    { nombre: 'Matias Romero', latlng: [16.878002960878156, -95.04281587942673] },
+    { nombre: 'Donaji', latlng: [17.222360878468226, -95.04939965462638] },
+    { nombre: 'Jesus Carranza', latlng: [17.435749065369055, -95.02358908716815] },
+    { nombre: 'Medias Aguas', latlng: [17.66745653410962, -95.03022968716351] },
+    { nombre: 'Jaltipan', latlng: [17.98491525210965, -94.71059169086656] },
+    { nombre: 'Coatzacolacos', latlng: [18.134377355698625, -94.46157483144158] },
+//linea k
+    { nombre: 'Tapachula', latlng: [14.903713578487721, -92.26491648747718] },
+    { nombre: 'Huixtla', latlng: [15.137563903485953, -92.46536300954546] },    
+    { nombre: 'Ixtepec', latlng: [16.554496423819437, -95.0948690774041] },
+    { nombre: 'Chivela', latlng: [16.713173659683942, -95.00104907554626] },
+    { nombre: 'Mapastepec', latlng: [15.433204550171745, -92.8980617655207] },
+    { nombre: 'Pilijilapan', latlng: [15.684698857049916, -93.21291939451591] },
+    { nombre: 'Arriaga', latlng: [16.237640669210055, -93.89880256258157] },
+    { nombre: 'Juchitlan', latlng: [16.440723848193624, -95.02415253250454] },
+    { nombre: 'Ixtepec', latlng: [16.561600718324247, -95.0967455880024] }
+    
     ];
 
     // Elementos select para las estaciones de inicio y destino
